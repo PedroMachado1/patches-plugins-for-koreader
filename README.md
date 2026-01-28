@@ -1,1 +1,1 @@
-# patchs-and-plugins-for-koreader
+# patchs-plugins-for-koreader
