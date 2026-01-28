@@ -1,6 +1,6 @@
 # patchs-plugins-for-koreader
 
-# Kobo Style Screensaver Patch for KOReader
+# KOReader Screensaver - Kobo Style
 
 A highly customizable Lua patch for KOReader that replaces the default screensaver with a modern, Kobo-inspired design. It displays rich book information, reading statistics, and random highlights from your current book.
 
