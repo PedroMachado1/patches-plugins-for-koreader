@@ -6,7 +6,9 @@ A highly customizable Lua patch for KOReader that replaces the default screensav
 
 **[Download the Patch (2-kobo-style-screensaver.lua)](https://github.com/PedroMachado1/patches-plugins-for-koreader/blob/e5501edb17c2115425ae12c51ab466286f18d69f/2-kobo-style-screensaver.lua)**
 
-![](./images/IMG_20260128_163932674.jpg)
+<p align="center">
+  <img src="./images/IMG_20260128_163932674.jpg" width="60%" alt="Kobo Style Screensaver Preview">
+</p>
 
 ## ✨ Features
 
